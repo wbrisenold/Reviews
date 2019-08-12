@@ -1,0 +1,324 @@
+.navbar {
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.navbar-nav li {
+	padding-right: 20px
+}
+
+
+.navbar ul li a {
+
+	font-family: 'Open Sans', sans-serif;
+	text-transform: uppercase;
+}
+
+.navbar img {
+	width: 300px
+}
+
+
+
+
+.dropdown-content {
+	display: none;
+	position: absolute;
+	background-color: #f9f9f9;
+	min-width: 160px;
+	-webkit-box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+	box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+	z-index: 1;
+}
+
+.dropdown-content a {
+	float: none;
+	color: #000;
+	padding: 12px 16px;
+	text-decoration: none;
+	display: block;
+	text-align: left;
+}
+
+.dropdown-content a:hover {
+	background-color: #ddd;
+}
+
+.dropdown:hover .dropdown-content {
+	display: block;
+}
+
+
+
+.dropdown .dropbtn {
+	border: none;
+	outline: none;
+	color: #000;
+	background-color: inherit;
+	font-family: inherit;
+	font-size: 18px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+#call_us {
+	background: #FFCD00;
+	border-radius: 3px;
+	text-transform: uppercase;
+	width: 130px;
+	height: 35px;
+	font-family: 'Open Sans', sans-serif;
+	font-style: bold;
+	font-weight: 500;
+	font-size: 14px;
+	color: #901D1D;
+}
+
+
+#call_us:hover {
+	background: #d0021b;
+}
+
+.top_area {
+	border-radius: 0;
+	width: 75%;
+	margin: 0 auto;
+	padding-bottom: 100px;
+
+}
+
+.top_area img {
+	width: 600px;
+	height: 500px;
+	-webkit-box-pack: center;
+	-ms-flex-pack: center;
+	justify-content: center;
+}
+
+.top_area ul li {
+	padding-bottom: 18px;
+	font-family: 'Open Sans Condensed',
+		sans-serif;
+	font-size: 18px;
+	list-style: circle;
+}
+
+.top_area h1 {
+	text-align: center;
+	padding-bottom: 1%;
+
+
+}
+
+.top_area p {
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 18px;
+	padding-bottom: 1%;
+
+}
+
+.second_area {
+	border-radius: 0;
+	width: 75%;
+	margin: 0 auto;
+	padding-bottom: 100px;
+
+}
+
+.second_area ul li {
+	padding-bottom: 20px;
+	font-family: 'Open Sans Condensed',
+		sans-serif;
+	font-size: 17px;
+	list-style: circle;
+}
+
+.second_area h1 {
+	text-align: center;
+	padding-bottom: 20px;
+}
+
+.second_area p {
+
+	font-size: 18px;
+	font-family: 'Open Sans Condensed', sans-serif;
+}
+
+
+.products_area {
+	border-radius: 0;
+	width: 75%;
+	margin: 0 auto;
+	padding-bottom: 100px;
+
+}
+
+.products_area h1 {
+	text-align: center;
+	padding-bottom: 20px;
+	padding-top: 20px;
+}
+
+.products_area ul li {
+	padding-bottom: 20px;
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 17px;
+	list-style: circle;
+}
+
+
+
+
+.page-footer {
+	background-color: #901D1D;
+	color: #fff;
+}
+
+.page-footer a {
+	color: #fff;
+	list-style: none;
+	text-decoration: none;
+}
+
+.sub_top_area {
+	-webkit-box-pack: center;
+	-ms-flex-pack: center;
+	justify-content: center;
+}
+
+.sub_top_area2 {
+	padding-top: 5%;
+}
+
+
+
+.table_titles {
+	background-color: #901D1D;
+	color: #fff;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: bold;
+	text-align: center;
+	height: 20px;
+	width: 200px;
+}
+
+.scores {
+	font-weight: bold;
+	font-size: 30px;
+
+}
+
+.table {
+
+
+	font-family: 'Open Sans Condensed',
+		sans-serif;
+	font-size: 18px;
+	-webkit-box-pack: center;
+	-ms-flex-pack: center;
+	justify-content: center;
+}
+
+
+
+
+
+.form_page {
+	border-radius: 0;
+	width: 75%;
+	margin: 0 auto;
+	padding-bottom: 100px;
+}
+
+.form_page h1 {
+	text-align: center;
+	padding-bottom: 20px;
+	padding-top: 20px;
+}
+
+.form_page p {
+	font-family: 'Open Sans Condensed',
+		sans-serif;
+	font-size: 18px;
+	text-align: center;
+}
+
+.form_page img {
+	width: 600px;
+	height: 500px;
+
+}
+
+.form_page_img {
+	-webkit-box-pack: center;
+	-ms-flex-pack: center;
+	justify-content: center;
+}
+
+.form_page btn {
+	text-align: center;
+	list-style: none;
+	color: #000;
+	text-decoration: none;
+}
+
+.top_area_grants h1 {
+	text-align: center;
+	padding-bottom: 1%;
+}
+
+.top_area_grants h2 {
+	text-align: center;
+	padding-bottom: 1%;
+}
+
+.top_area_grants p {
+	font-size: 18px;
+	font-family: 'Open Sans', sans-serif;
+	padding-bottom: 2%
+}
+
+.top_area_grants {
+	border-radius: 0;
+	width: 75%;
+	margin: 0 auto;
+	padding-bottom: 100px;
+}
+
+.top_area_grants ul li {
+
+	font-size: 18px;
+	font-family: 'Open Sans', sans-serif;
+	padding-bottom: 1%;
+
+}
+
+.top_area_grants h3 {
+	color: #666;
+	text-align: center;
+}
+
+.top_area_grants img {
+	width: 25%;
+	padding-bottom: 2%;
+
+}
+
+
+
+element.style {
+	overflow-x: auto;
+}
+
+.table-contain img {
+	width: 200px;
+}
+
+.table-contain {
+
+	border-radius: 0;
+	width: 75%;
+	margin: 0 auto;
+	padding-bottom: 100px;
+
+}
